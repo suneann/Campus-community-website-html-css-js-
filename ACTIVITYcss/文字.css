@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+p1
+{
+    position: absolute;
+    left: 120px;
+    top: -50px;
+    width: 399px;
+    height: 117px;
+	text-align: center;
+	
+}
+
+p2
+{
+    position: absolute;
+    left: 296px;
+    width: 392px;
+    height: 97px;
+    top: 52px;
+}
+
+p3
+{
+    position: absolute;
+    left: 1033px;
+    width: 528px;
+    height: 66px;
+    top: 476px;
+}
+
+p4
+{
+    position: absolute;
+    left: 754px;
+    width: 681px;
+    height: 66px;
+    top: 561px;
+}
+
+p5
+{
+    position: absolute;
+    left: 1012px;
+    width: 477px;
+    height: 66px;
+    top: 590px;
+}
+
+p6
+{
+    position: absolute;
+    left: 406px;
+    width: 546px;
+    height: 66px;
+    top: 130px;
+}
+p7
+{
+    position: absolute;
+    left: 67px;
+    width: 551px;
+    height: 66px;
+    top: 215px;
+}

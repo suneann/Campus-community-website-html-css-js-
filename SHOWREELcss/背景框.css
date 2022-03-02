@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+div0 {
+	border: 15px solid #000523;
+    position: absolute;
+    background-color: #1E2D4E;
+    left: 6.2%;
+	right: 6.2%;
+    top: 10%;
+	height: 950px;
+}
+position0{
+    position: absolute;
+    left: 92px;
+    top: 11px;
+    width: 81px;
+    height: 158px;
+}
+position1{
+    position: absolute;
+    left: 187px;
+    top: 245px;
+    width: 60px;
+    height: 158px;
+}
+position2{
+    position: absolute;
+    left: 93px;
+    top: 350px;
+    width: 157px;
+    height: 158px;
+}
+position3{
+    position: absolute;
+    left: 48px;
+    top: 37px;
+    width: 505px;
+    height: 422px;
+}
+position4{
+    position: absolute;
+    left: 112px;
+    left: 6%;
+	right: 6%;
+    height: 506px;
+    bottom: -14px;
+}
+#div1{
+
+	position: absolute;
+    left: 68px;
+    top: 0px;
+    height: 36px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #D1CED5;
+	width: 300px;
+	height: 50px;
+}
+#div2{
+
+	background-color:#284F6C;
+	background-attachment: scroll;
+	background-repeat:no-repeat;
+	background-positbodyion:top center;
+	background-origin:content-box;
+	width: 300px;
+	height: 300px;
+}
+#div3{
+
+	background-color:#284F6C;
+	background-attachment: scroll;
+	background-repeat:no-repeat;
+	background-positbodyion:top center;
+	background-origin:content-box;
+	width: 300px;
+	height: 300px;
+}
+
+p1
+{
+    position: absolute;
+    left: 1059px;
+    top: -57px;
+    width: 560px;
+    height: 136px;
+}
+p2
+{
+    position: absolute;
+    left: 1193px;
+    width: 448px;
+    height: 78px;
+    bottom: 26px
+}

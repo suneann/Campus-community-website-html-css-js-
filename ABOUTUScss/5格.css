@@ -1,0 +1,179 @@
+@charset "utf-8";
+/* CSS Document */
+logoback
+{
+    position: absolute;
+    left: 4%;
+    top: 1%;
+    bottom: 40%;
+    width: 125px;
+    height: 339px;
+	
+}
+logoback1
+{
+    position: absolute;
+    left: 467px;
+    top: 18px;
+    bottom: 40%;
+    width: 60px;
+    height: 322px;
+	
+}
+logo0{
+/*	border: 2px solid #1E2D4E;*/
+    position: absolute;
+    left: 0%;
+    right: 80%;
+    top: 0%;
+	bottom: 0%;
+}
+logo1{
+/*	border: 3px solid #1E2D4E;*/
+    position: absolute;
+    left: 20%;
+    right: 60%;
+    top: 0%;
+	bottom: 0%;
+}
+logo2{
+/*	border: 3px solid #1E2D4E;*/
+    position: absolute;
+    left: 40%;
+    right: 40%;
+    top: 0%;
+	bottom: 0%;
+}
+logo3{
+/*	border: 3px solid #1E2D4E;*/
+    position: absolute;
+    left: 60%;
+    right: 20%;
+    top: 0%;
+	bottom: 0%;
+}
+logo4{
+/*	border: 3px solid #1E2D4E;*/
+    position: absolute;
+    left: 80%;
+    right: 0%;
+    top: 0%;
+	bottom: 0%;
+}
+p1{
+    position: absolute;
+    left: 45%;
+    right: 29%;
+    top: 8%;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #D1CED5;
+    width: 154px;
+    height: 37px;
+	
+}
+p2{
+    position: absolute;
+    left: 45%;
+    right: 29%;
+    top: 8%;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    font-weight: bold;
+    color: #D1CED5;
+    width: 98px;
+	
+}
+p3{
+    position: absolute;
+    left: 131px;
+    right: 29%;
+    top: 8%;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    font-weight: bold;
+    color: #D1CED5;
+    width: 98px;
+	
+}
+p4{
+    position: absolute;
+    left: 130px;
+    right: 29%;
+    top: 29px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    font-weight: bold;
+    color: #D1CED5;
+    width: 98px;
+	
+}
+p5{
+    position: absolute;
+    left: 75px;
+    right: 29%;
+    top: 29px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    font-weight: bold;
+    color: #D1CED5;
+    width: 98px;
+}
+mainp{
+    position: absolute;
+    font-family: "仿宋";
+    font-size: 25px;
+    font-weight: bold;
+    color: #D1CED5;
+    left: 1049px;
+    top: 64px;
+}
+mainp1{
+    position: absolute;
+    font-family: "仿宋";
+    font-size: 25px;
+    font-weight: bold;
+    color: #D1CED5;
+    left: 1052px;
+    top: 296px;
+}
+fengexian{
+    font-weight: bold;
+    position: absolute;
+    font-family: "仿宋";
+    font-size: 45px;
+    color: #D1CED5;
+    right: 3px;
+    top: 25px;
+    width: 623px;
+	
+}
+fengexian1{
+    font-weight: bold;
+    position: absolute;
+    font-family: "仿宋";
+    font-size: 45px;
+    color: #D1CED5;
+    left: 15px;
+    top: 723px;
+    width: 600px;
+    bottom: 0%;
+    height: 58px;
+	
+}
+fengexian2{
+    font-weight: bold;
+    position: absolute;
+    font-family: "仿宋";
+    font-size: 45px;
+    color: #D1CED5;
+    left: 9px;
+    top: 310px;
+    width: 365px;
+	
+}

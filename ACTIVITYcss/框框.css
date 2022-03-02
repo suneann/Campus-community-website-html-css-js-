@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+
+position0{
+    border: 15px solid #000523;
+    background-color: #1E2D4E;
+    position: absolute;
+    left: 108px;
+    right: 6.2%;
+    top: 10%;
+    bottom: 5%;
+
+}
+
+position1{
+    background-color: #284F6C;
+    position: absolute;
+    left: 232px;
+    top: 406px;
+    width: 300px;
+    height: 300px;
+}
+position1_1{
+    position: absolute;
+    left: 0px;
+    top: 60px;
+    width: 300px;
+    height: 210px;
+}
+position2{
+    background-color: #678AA8;
+    position: absolute;
+    left: 670px;
+    top: 258px;
+    width: 300px;
+    height: 300px;
+}
+position2_1{
+    position: absolute;
+    left: 0px;
+    top: 60px;
+    width: 300px;
+    height: 210px;
+}
+position3{
+    background-color: #CBD7E3;
+    position: absolute;
+    left: 1114px;
+    top: 119px;
+    width: 300px;
+    height: 300px;
+}
+position3_1{
+    position: absolute;
+    left: 0px;
+    top: 60px;
+    width: 300px;
+    height: 210px;
+}
+
+#div1{
+    position: absolute;
+    left: 0px;
+    top: -22px;
+    height: 36px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #D1CED5;
+    width: 300px;
+    height: 58px;
+}
+#div2{
+    position: absolute;
+    left: 0px;
+    top: -22px;
+    height: 36px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #D1CED5;
+    width: 300px;
+    height: 58px;
+}
+#div3{
+    position: absolute;
+    left: 0px;
+    top: -22px;
+    height: 36px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #D1CED5;
+    width: 300px;
+    height: 58px;
+}

@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+div0 {
+	border: 15px solid #000523;
+    position: absolute;
+    background-color: #1E2D4E;
+    left: 6.2%;
+	right:6.2%;
+    top: 10%;
+	bottom:5%;
+}
+
+bigkuangkuang{
+    position: absolute;
+	background-color: #000523;
+    left: 6.2%;
+	right:6.2%;
+    top: 30px;
+	bottom:2%;
+}

@@ -1,0 +1,183 @@
+@charset "utf-8";
+/* CSS Document */
+#moon {
+    position: absolute;
+    width: 1920px;
+    height: "937";
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    left: 0px;
+    top: 3px;
+}
+position0{
+    position: absolute;
+    left: 215px;
+    top: 140px;
+    width: 300px;
+    height: 235px;
+}
+position1{
+    position: absolute;
+    left: 215px;
+    top: 140px;
+    width: 300px;
+    height: 235px;
+}
+position1_1{
+    position: absolute;
+    left: 0px;
+    top: 85px;
+    width: 300px;
+    height: 210px;
+}
+position2{
+    position: absolute;
+    left: 532px;
+    top: 140px;
+    width: 300px;
+    height: 303px;
+}
+position2_1{
+    position: absolute;
+    left: 0px;
+    top: 85px;
+    width: 300px;
+    height: 210px;
+}
+position3{
+    position: absolute;
+    right: 532px;
+    top: 140px;
+    width: 300px;
+    height: 300px;
+}
+position3_1{
+    position: absolute;
+    left: 0px;
+    top: 85px;
+    width: 300px;
+    height: 210px;
+}
+position4{
+    position: absolute;
+    right: 215px;
+    top: 140px;
+    width: 300px;
+    height: 303px;
+}
+position4_1{
+    position: absolute;
+    left: 0px;
+    top: 85px;
+    width: 300px;
+    height: 210px;
+}
+position5{
+    position: absolute;
+    left: 215px;
+    top: 456px;
+    width: 300px;
+    height: 300px;
+}
+position5_1{
+    position: absolute;
+    left: 0px;
+    top: 85px;
+    width: 300px;
+    height: 210px;
+}
+position6{
+    position: absolute;
+    left: 532px;
+    top: 456px;
+    width: 300px;
+    height: 300px;
+}
+position6_1{
+    position: absolute;
+    left: 0px;
+    top: 87px;
+    width: 300px;
+    height: 210px;
+}
+position7{
+    position: absolute;
+    left: 715px;
+    top: 40px;
+    width: 300px;
+    height: 300px;
+}
+position8{
+    background-color: #1E2D4E;
+    position: absolute;
+    left: 6.2%;
+	right:6.2%;
+    top: 10%;
+	bottom:5%;
+
+}
+#div1{
+
+	background-color:#284F6C;
+	background-attachment: scroll;
+	background-repeat:no-repeat;
+	background-positbodyion:top center;
+	background-origin:content-box;
+	width: 300px;
+	height: 300px;
+}
+#div2{
+	background-color:#678AA8;
+	background-attachment: scroll;
+	background-repeat:no-repeat;
+	background-positbodyion:top center;
+	background-origin:content-box;
+	width: 300px;
+	height: 300px;
+}
+#div3{
+	background-color:#CBD7E3;
+	background-attachment: scroll;
+	background-repeat:no-repeat;
+	background-positbodyion:top center;
+	background-origin:content-box;
+	width: 300px;
+	height: 300px;
+}
+#div4{
+	background-color:#D1CED5;
+	background-attachment: scroll;
+	background-repeat:no-repeat;
+	background-positbodyion:top center;
+	background-origin:content-box;
+	width: 300px;
+	height: 300px;
+}
+#div5{
+	background-color:#A39BAA;
+	background-attachment: scroll;
+	background-repeat:no-repeat;
+	background-positbodyion:top center;
+	background-origin:content-box;
+	width: 300px;
+	height: 300px;
+}
+#div6{
+	background-color:#867A84;
+	background-attachment: scroll;
+	background-repeat:no-repeat;
+	background-positbodyion:top center;
+	background-origin:content-box;
+	width: 300px;
+	height: 300px;
+}
+
+#div7{
+	background-image: url("../image/配色.jpg");
+	background-attachment: scroll;
+	background-repeat:no-repeat;
+	background-positbodyion:top center;
+	background-origin:content-box;
+	width: 300px;
+	height: 800px;
+}

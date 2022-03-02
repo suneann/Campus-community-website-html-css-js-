@@ -1,0 +1,129 @@
+@charset "utf-8";
+/* CSS Document */
+
+divus1_0 {
+	border: 15px solid #000523;
+    position: absolute;
+    background-color: #1E2D4E;
+    position: absolute;
+    left: 6.2%;
+	right:6.2%;
+    top: 10%;
+	bottom:5%;
+}
+biaodan
+{
+    position: absolute;
+    left: 2%;
+    top: 300px;
+/*    right: %;*/
+    bottom: 5%;
+    width: 1571px;
+    height: 600px;
+
+}
+
+divclass
+{
+    position: absolute;
+    background-color: #D1CED5;
+    left: 15%;
+    top: 30%;
+    width: 317px;
+    height: 47px;
+	
+}
+
+divspecialty
+{
+    position: absolute;
+    background-color: #D1CED5;
+    left: 673px;
+    top: 30%;
+    width: 361px;
+    height: 47px;
+	
+}
+div0
+{
+    position: absolute;
+    left: 5%;
+    top: 80px;
+    width: 465px;
+    height: 50px;
+	
+}
+div1
+{
+    position: absolute;
+    left: 35%;
+    top: 80px;
+    width: 414px;
+    height: 56px;
+	border-radius: 1em;
+	
+}
+div2
+{
+    position: absolute;
+    right: 5%;
+    top: 80px;
+    width: 465px;
+    height: 56px;
+	
+}
+div3
+{
+    position: absolute;
+    left: 55px;
+    top: 240px;
+    width: 1408px;
+    height: 166px;
+	
+	
+}
+div4
+{
+    position: absolute;
+    left: 460px;
+    top: 340px;
+    width: 200px;
+    height: 50px;	
+	
+}
+
+div5
+{
+    position: absolute;
+    left: 440px;
+    top: 150px;
+    width: 386px;
+    height: 50px;
+	
+}
+
+div6
+{
+    position: absolute;
+    right: 240px;
+    top: 150px;
+    width: 388px;
+    height: 50px;
+	
+}
+
+position4{
+    position: absolute;
+    left: 112px;
+    left: 6%;
+    right: 6%;
+    height: 523px;
+    bottom: -20px;
+}
+position0{
+    position: absolute;
+    left: 112px;
+    left: 67px;
+    height: 200px;
+    top: 41px;
+}

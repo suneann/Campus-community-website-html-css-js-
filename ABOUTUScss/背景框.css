@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+
+divus1_0 {
+	border: 15px solid #000523;
+    position: absolute;
+    background-color: #1E2D4E;
+    position: absolute;
+    left: 6.2%;
+	right:6.2%;
+    top: 10%;
+	bottom:5%;
+}
+
+divus1_1 {
+    background-color: #000523;
+    position: absolute;
+    left: 0%;
+	right:0%;
+    top: 45%;
+	bottom:5%;
+}
+
+divus1_2 {
+    border: 10px solid #000523;
+    position: absolute;
+    background-color: #D1CED5;
+    top: 77px;
+    right: 116px;
+    width: 885px;
+    height: 237px;
+}
+wenzikuang1
+{
+    position: absolute;
+    background-color: #000523;
+    bottom: 0px;
+    left: 27%;
+    right: 0%;
+    top: 20%;
+    bottom: 0%;
+    height: 232px;
+	
+	
+}
+wenzikuang2
+{
+	position: absolute;
+    background-color:#000523;
+	bottom: 0px;
+	left: 27%;
+	top:20%;
+	right:0%;
+    height: 65%;
+	
+}
+wenzikuang3
+{
+    position: absolute;
+    background-color: #000523;
+    bottom: 0px;
+    left: 56px;
+    top: 20%;
+    right: 0%;
+    height: 65%;
+    width: 264px;
+	
+}
+wenzikuang4
+{
+    position: absolute;
+    background-color: #000523;
+    bottom: 0px;
+    left: 13px;
+    top: 73px;
+    right: 0%;
+    height: 65%;
+    width: 236px;
+	
+}
+wenzikuang5
+{
+	position: absolute;
+    background-color:#000523;
+	bottom: 0px;
+	left: 27%;
+	top:20%;
+	right:25%;
+    height: 65%;
+	
+}
